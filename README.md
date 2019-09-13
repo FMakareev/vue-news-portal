@@ -1,4 +1,4 @@
-# hello-world
+# news portal
 
 ## Project setup
 ```
